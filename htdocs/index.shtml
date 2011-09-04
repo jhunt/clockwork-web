@@ -1,0 +1,47 @@
+<!--#set var="title" value="Configuration Management For The Rest of Us" -->
+<!--#include virtual="/ssi/header.shtml" -->
+    <h1>What is It?</h1>
+    <p><strong>Clockwork</strong> is a <strong>configuration management system.</strong>
+    It keeps your systems happy and well cared for, so you can
+    focus on those other tasks and projects.</p>
+
+    <p>Clockwork makes you <em>more productive.</em></p>
+    <p>Clockwork makes your bosses <em>happier.</em></p>
+    <p>Clockwork makes IT <em>fun again!</em></p>
+
+    <h1>Get It!</h1>
+    <p>Head on over to the <a href="/downloads/">Downloads</a> section to get the latest <strong>stable</strong> build
+    for your platform(s) of choice &mdash; as long as it&apos;s Linux (sorry Windows guys).</p>
+
+    <p>While you&apos;re at it, you may want to
+    run through the <a href="/docs/quickstart">Quickstart Guide</a> (It&apos;s really quick!  Promise!)
+    over in the <a href="/docs/">Documentation</a> library.</p>
+
+    <p>If you want to stay on the <strong>bleeding edge</strong> (and you&apos;re not afraid of a little
+    <code>./configure; make; make install</code>), pull down a copy of the code from
+    the <a href="#">git repository</a>.  Thanks, GitHub!</p>
+
+    <h1>Learn It!</h1>
+    <p>Clockwork is pretty spiffy, it&apos;s true.  But if you really want to
+    get your money&apos;s worth (<a href="/why-clockwork-is-free">metaphorically speaking</a>
+    of course), you better hunker down and hit the books.</p>
+
+    <p>Lucky for you, the Clockwork developers have written
+    <s>tons</s> <s>lots</s> <em>reams</em> of documentation, including
+    <a href="/docs/#man">man pages</a>,
+    <a href="/docs/#guides">guides</a>,
+    <a href="/docs/#recipes">recipes</a>,
+    <a href="/docs/#howtos">how-tos</a> and more.  They even have
+    <strong>pretty pictures</strong> (oooh) and <strong>diagrams</strong> (ahhh) you can use to amaze
+    and astound your friends and co-workers.</p>
+
+    <p>And remember, code is wayyy more fun than documentation to write.  You know it.  The
+    developers know it. So if you don&apos;t read their docs, they will cry.  Seriously.</p>
+
+    <h1>Love It!</h1>
+    <p>Think Clockwork is <strong>totally awesome?</strong></p>
+    <p>Can&apos;t imaginge (or remember) life without it?</p>
+    <p><a href="/contact">Tell us</a> about it!  We love
+    to hear from the people who use our software.  Kind of makes this whole
+    <a href="/why-clockwork-is-free">open source thing</a> really worth it.</p>
+<!--#include virtual="/ssi/footer.shtml" -->

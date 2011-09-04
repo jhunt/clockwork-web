@@ -1,0 +1,21 @@
+<!--#set var="title" value="Licensing" -->
+<!--#include virtual="/ssi/header.shtml" -->
+    <h1>Licensing</h1>
+
+    <p>Clockwork is licensed under the <em><abbr title="GNU's Not Unix">GNU</abbr> General Public License</em>,
+    the most loved and hated of Free Software licenses.</p>
+
+    <p>Peruse it at your leisure <a href="http://www.gnu.org/copyleft/gpl.txt">here.</a></p>
+
+    <p>The short of it is that you are free to use Clockwork in <strong>any environment</strong>, be it <em>personal</em>,
+    <em>commercial</em>, <em>governmental</em> or <em>not-for-profit.</em>  You are guaranteed access to the original source
+    code, and your ability to modify, hack it, and rework it is protected.</p>
+
+    <p>Just keep in mind that if you redistribute&mdash;with or without modification&mdash;you have to give those
+    same rights and protections to the next guy.  We (the development team) do ask that any changes, bug fixes or
+    enhancements be sent back to the community so that we can all benefit.</p>
+
+    <p>More about this hippie code-sharing mumbo jumbo can be found on the
+    <a href="/why-clockwork-is-free">Why Clockwork is Free</a> page.</p>
+
+<!--#include virtual="/ssi/footer.shtml" -->

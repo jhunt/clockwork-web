@@ -1,0 +1,161 @@
+<!--#set var="title" value="Mockup" -->
+<!--#include virtual="SSIFRAG/header.shtml" -->
+
+    <div class="announcement">
+      <h1>Lorem Ipsum Dolor Sit Amet</h1>
+      <p><strong>Nulla Facilisi:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Phasellus <em>blandit</em>, erat <s>vitae</s> fermentum accumsan, <del>nibh</del> <ins>neque</ins> dictum mi, sit amet <var>faucibus</var> nisi massa non nibh.</p>
+
+      <p>Aenean rhoncus dui sed metus <a href="#">tincidunt faucibus.</a></p>
+    </div>
+
+    <h1>Lorem ipsum dolor sit amet</h1>
+
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus blandit, erat vitae fermentum accumsan, nibh neque dictum mi, sit amet faucibus nisi massa non nibh. Aenean rhoncus dui sed metus tincidunt faucibus. Vivamus volutpat felis ut mi euismod ac porttitor mi ornare. Nulla facilisi. Phasellus aliquam tempor nulla vel vestibulum. Aliquam vestibulum, augue quis tristique blandit, turpis elit commodo libero, sed adipiscing est arcu vel sapien. Fusce vel sem lacus, in mattis mauris. Aliquam volutpat ultrices mi nec commodo. Nulla facilisi. Donec sit amet ante eget justo rutrum facilisis sed et risus. Vivamus id erat quis sem rutrum egestas a vitae urna. Quisque sed euismod lectus. Nunc tempor faucibus neque quis facilisis.</p>
+
+    <p>Nulla facilisi. Sed et mi non nisl tincidunt porta. Integer id ante ac odio cursus luctus. Praesent luctus, orci vitae mollis dignissim, quam lorem mollis mauris, sed fermentum risus nulla ac ligula. Curabitur volutpat interdum dignissim. Etiam magna mauris, aliquet ut dapibus sit amet, auctor sed lacus. Nullam molestie pretium eros, sed tempus elit lacinia quis.</p>
+
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus blandit, erat vitae fermentum accumsan, nibh neque dictum mi, sit amet faucibus nisi massa non nibh. Aenean rhoncus dui sed metus tincidunt faucibus. Vivamus volutpat felis ut mi euismod ac porttitor mi ornare. Nulla facilisi. Phasellus aliquam tempor nulla vel vestibulum. Aliquam vestibulum, augue quis tristique blandit, turpis elit commodo libero, sed adipiscing est arcu vel sapien. Fusce vel sem lacus, in mattis mauris. Aliquam volutpat ultrices mi nec commodo. Nulla facilisi. Donec sit amet ante eget justo rutrum facilisis sed et risus. Vivamus id erat quis sem rutrum egestas a vitae urna. Quisque sed euismod lectus. Nunc tempor faucibus neque quis facilisis.</p>
+
+    <p>Aenean nec orci elit. Sed a nulla erat. Aliquam commodo, odio in aliquam aliquet, erat lectus porta quam, vel volutpat eros turpis sit amet purus. Praesent eu sapien at urna imperdiet interdum in vitae diam.</p>
+
+    <h1>Lorem ipsum dolor sit amet</h1>
+
+    <p>Nulla facilisi. Sed et mi non nisl tincidunt porta. Integer id ante ac odio cursus luctus. Praesent luctus, <strong>orci vitae</strong> mollis dignissim, quam lorem mollis mauris, sed fermentum risus nulla ac ligula. Curabitur volutpat interdum dignissim. Etiam magna mauris, aliquet ut dapibus <a href="#">sit amet</a>, auctor <a href="#">sed lacus</a>. Nullam molestie pretium eros, sed tempus elit <em>lacinia quis.</em></p>
+
+    <p>Aenean nec orci elit. Sed <strong>a nulla</strong> erat. Aliquam commodo, odio in aliquam aliquet, erat lectus porta quam, vel volutpat eros turpis sit amet purus. Praesent eu sapien at urna imperdiet interdum in vitae diam.</p>
+
+    <p>Nulla facilisi. Sed et mi non nisl tincidunt porta. Integer id ante ac odio cursus luctus. Praesent luctus, orci vitae mollis dignissim, quam lorem mollis mauris, sed fermentum risus nulla ac ligula. Curabitur volutpat interdum dignissim. Etiam magna mauris, aliquet ut dapibus sit amet, auctor sed lacus. Nullam molestie pretium eros, sed tempus elit lacinia quis.</p>
+
+    <h1>Lorem ipsum dolor sit amet</h1>
+
+    <p>Aenean nec orci elit. Sed a nulla erat. Aliquam commodo, odio in aliquam aliquet, erat lectus porta quam, vel volutpat eros turpis sit amet purus. Praesent eu sapien at urna imperdiet interdum in vitae diam.</p>
+    <p>Nulla facilisi. Sed et mi non nisl tincidunt porta. Integer id ante ac odio cursus luctus. Praesent luctus, orci vitae mollis dignissim, quam lorem mollis mauris, sed fermentum risus nulla ac ligula. Curabitur volutpat interdum dignissim. Etiam magna mauris, aliquet ut dapibus sit amet, auctor sed lacus. Nullam molestie pretium eros, sed tempus elit lacinia quis.</p>
+
+    <div class="announcement">
+      <h1>Lorem Ipsum Dolor Sit Amet</h1>
+      <p><strong>Nulla Facilisi:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Phasellus blandit, erat vitae fermentum accumsan, nibh neque dictum mi, sit amet faucibus nisi massa non nibh.</p>
+    </div>
+
+    <h2>Lorem ipsum dolor sit amet</h2>
+
+    <p>Aenean nec orci elit. Sed a nulla erat. Aliquam commodo, odio in aliquam aliquet, erat lectus porta quam, vel volutpat eros turpis sit amet purus. Praesent eu sapien at urna imperdiet interdum in vitae diam.</p>
+    <p>Nulla facilisi. Sed et mi non nisl tincidunt porta. Integer id ante ac odio cursus luctus. Praesent luctus, orci vitae mollis dignissim, quam lorem mollis mauris, sed fermentum risus nulla ac ligula. Curabitur volutpat interdum dignissim. Etiam magna mauris, aliquet ut dapibus sit amet, auctor sed lacus. Nullam molestie pretium eros, sed tempus elit lacinia quis.</p>
+
+    <h3>Lorem ipsum dolor sit amet</h3>
+
+    <p>Aenean nec orci elit. Sed a nulla erat. Aliquam commodo, odio in aliquam aliquet, erat lectus porta quam, vel volutpat eros turpis sit amet purus. Praesent eu sapien at urna imperdiet interdum in vitae diam.</p>
+    <p>Nulla facilisi. Sed et mi non nisl tincidunt porta. Integer id ante ac odio cursus luctus. Praesent luctus, orci vitae mollis dignissim, quam lorem mollis mauris, sed fermentum risus nulla ac ligula. Curabitur volutpat interdum dignissim. Etiam magna mauris, aliquet ut dapibus sit amet, auctor sed lacus. Nullam molestie pretium eros, sed tempus elit lacinia quis.</p>
+
+    <h3>Lorem ipsum dolor sit amet</h3>
+
+    <p>Aenean nec orci elit. Sed a nulla erat. Aliquam commodo, odio in aliquam aliquet, erat lectus porta quam, vel volutpat eros turpis sit amet purus. Praesent eu sapien at urna imperdiet interdum in vitae diam.</p>
+    <p>Nulla facilisi. Sed et mi non nisl tincidunt porta. Integer id ante ac odio cursus luctus. Praesent luctus, orci vitae mollis dignissim, quam lorem mollis mauris, sed fermentum risus nulla ac ligula. Curabitur volutpat interdum dignissim. Etiam magna mauris, aliquet ut dapibus sit amet, auctor sed lacus. Nullam molestie pretium eros, sed tempus elit lacinia quis.</p>
+
+    <h4>Lorem ipsum dolor sit amet</h4>
+
+    <p>Aenean nec orci elit. Sed a nulla erat. Aliquam commodo, odio in aliquam aliquet, erat lectus porta quam, vel volutpat eros turpis sit amet purus. Praesent eu sapien at urna imperdiet interdum in vitae diam.</p>
+    <p>Nulla facilisi. Sed et mi non nisl tincidunt porta. Integer id ante ac odio cursus luctus. Praesent luctus, orci vitae mollis dignissim, quam lorem mollis mauris, sed fermentum risus nulla ac ligula. Curabitur volutpat interdum dignissim. Etiam magna mauris, aliquet ut dapibus sit amet, auctor sed lacus. Nullam molestie pretium eros, sed tempus elit lacinia quis.</p>
+
+    <h5>Lorem ipsum dolor sit amet</h5>
+
+    <p>Aenean nec orci elit. Sed a nulla erat. Aliquam commodo, odio in aliquam aliquet, erat lectus porta quam, vel volutpat eros turpis sit amet purus. Praesent eu sapien at urna imperdiet interdum in vitae diam.</p>
+    <p>Nulla facilisi. Sed et mi non nisl tincidunt porta. Integer id ante ac odio cursus luctus. Praesent luctus, orci vitae mollis dignissim, quam lorem mollis mauris, sed fermentum risus nulla ac ligula. Curabitur volutpat interdum dignissim. Etiam magna mauris, aliquet ut dapibus sit amet, auctor sed lacus. Nullam molestie pretium eros, sed tempus elit lacinia quis.</p>
+
+    <h5>Lorem ipsum dolor sit amet</h5>
+
+    <p>Aenean nec orci elit. Sed a nulla erat. Aliquam commodo, odio in aliquam aliquet, erat lectus porta quam, vel volutpat eros turpis sit amet purus. Praesent eu sapien at urna imperdiet interdum in vitae diam.</p>
+    <p>Nulla facilisi. Sed et mi non nisl tincidunt porta. Integer id ante ac odio cursus luctus. Praesent luctus, orci vitae mollis dignissim, quam lorem mollis mauris, sed fermentum risus nulla ac ligula. Curabitur volutpat interdum dignissim. Etiam magna mauris, aliquet ut dapibus sit amet, auctor sed lacus. Nullam molestie pretium eros, sed tempus elit lacinia quis.</p>
+
+    <h6>Lorem ipsum dolor sit amet</h6>
+
+    <p>Aenean nec orci elit. Sed a nulla erat. Aliquam commodo, odio in aliquam aliquet, erat lectus porta quam, vel volutpat eros turpis sit amet purus. Praesent eu sapien at urna imperdiet interdum in vitae diam.</p>
+    <p>Nulla facilisi. Sed et mi non nisl tincidunt porta. Integer id ante ac odio cursus luctus. Praesent luctus, orci vitae mollis dignissim, quam lorem mollis mauris, sed fermentum risus nulla ac ligula. Curabitur volutpat interdum dignissim. Etiam magna mauris, aliquet ut dapibus sit amet, auctor sed lacus. Nullam molestie pretium eros, sed tempus elit lacinia quis.</p>
+
+    <h6>Lorem ipsum dolor sit amet</h6>
+
+    <p>Aenean nec orci elit. Sed a nulla erat. Aliquam commodo, odio in aliquam aliquet, erat lectus porta quam, vel volutpat eros turpis sit amet purus. Praesent eu sapien at urna imperdiet interdum in vitae diam.</p>
+    <p>Nulla facilisi. Sed et mi non nisl tincidunt porta. Integer id ante ac odio cursus luctus. Praesent luctus, orci vitae mollis dignissim, quam lorem mollis mauris, sed fermentum risus nulla ac ligula. Curabitur volutpat interdum dignissim. Etiam magna mauris, aliquet ut dapibus sit amet, auctor sed lacus. Nullam molestie pretium eros, sed tempus elit lacinia quis.</p>
+
+
+    <h2>Lorem ipsum dolor sit amet</h2>
+
+    <p>Aenean nec orci elit. Sed a nulla erat. Aliquam commodo, odio in aliquam aliquet, erat lectus porta quam, vel volutpat eros turpis sit amet purus. Praesent eu sapien at urna imperdiet interdum in vitae diam.</p>
+    <p>Nulla facilisi. Sed et mi non nisl tincidunt porta. Integer id ante ac odio cursus luctus. Praesent luctus, orci vitae mollis dignissim, quam lorem mollis mauris, sed fermentum risus nulla ac ligula. Curabitur volutpat interdum dignissim. Etiam magna mauris, aliquet ut dapibus sit amet, auctor sed lacus. Nullam molestie pretium eros, sed tempus elit lacinia quis.</p>
+
+    <h2>Lorem ipsum dolor sit amet</h2>
+
+    <p>Aenean nec orci elit. Sed a nulla erat. Aliquam commodo, odio in aliquam aliquet, erat lectus porta quam, vel volutpat eros turpis sit amet purus. Praesent eu sapien at urna imperdiet interdum in vitae diam.</p>
+    <p>Nulla facilisi. Sed et mi non nisl tincidunt porta. Integer id ante ac odio cursus luctus. Praesent luctus, orci vitae mollis dignissim, quam lorem mollis mauris, sed fermentum risus nulla ac ligula. Curabitur volutpat interdum dignissim. Etiam magna mauris, aliquet ut dapibus sit amet, auctor sed lacus. Nullam molestie pretium eros, sed tempus elit lacinia quis.</p>
+
+    <h3>Lorem ipsum dolor sit amet</h3>
+
+    <p>Aenean nec orci elit. Sed a nulla erat. Aliquam commodo, odio in aliquam aliquet, erat lectus porta quam, vel volutpat eros turpis sit amet purus. Praesent eu sapien at urna imperdiet interdum in vitae diam.</p>
+    <p>Nulla facilisi. Sed et mi non nisl tincidunt porta. Integer id ante ac odio cursus luctus. Praesent luctus, orci vitae mollis dignissim, quam lorem mollis mauris, sed fermentum risus nulla ac ligula. Curabitur volutpat interdum dignissim. Etiam magna mauris, aliquet ut dapibus sit amet, auctor sed lacus. Nullam molestie pretium eros, sed tempus elit lacinia quis.</p>
+
+    <h3>Lorem ipsum dolor sit amet</h3>
+
+    <p>Aenean nec orci elit. Sed a nulla erat. Aliquam commodo, odio in aliquam aliquet, erat lectus porta quam, vel volutpat eros turpis sit amet purus. Praesent eu sapien at urna imperdiet interdum in vitae diam.</p>
+    <p>Nulla facilisi. Sed et mi non nisl tincidunt porta. Integer id ante ac odio cursus luctus. Praesent luctus, orci vitae mollis dignissim, quam lorem mollis mauris, sed fermentum risus nulla ac ligula. Curabitur volutpat interdum dignissim. Etiam magna mauris, aliquet ut dapibus sit amet, auctor sed lacus. Nullam molestie pretium eros, sed tempus elit lacinia quis.</p>
+
+
+    <h1>Lorem ipsum dolor sit amet</h1>
+
+    <p>Aenean nec orci elit. Sed a nulla erat. Aliquam commodo, odio in aliquam aliquet, erat lectus porta quam, vel volutpat eros turpis sit amet purus. Praesent eu sapien at urna imperdiet interdum in vitae diam.</p>
+
+    <ul>
+      <li>Aliquam commodo, odio</li>
+      <li>Sed a nulla erat</li>
+      <li>Integer id ante ac odio cursus</li>
+    </ul>
+
+    <p>Aenean nec orci elit. Sed a nulla erat. Aliquam commodo, odio in aliquam aliquet, erat lectus porta quam, vel volutpat eros turpis sit amet purus. Praesent eu sapien at urna imperdiet interdum in vitae diam.</p>
+
+    <ol>
+      <li>Aliquam commodo, odio</li>
+      <li>Sed a nulla erat</li>
+      <li>Integer id ante ac odio cursus</li>
+    </ol>
+
+    <p>Aenean nec orci elit. Sed a nulla erat. Aliquam commodo, odio in aliquam aliquet, erat lectus porta quam, vel volutpat eros turpis sit amet purus. Praesent eu sapien at urna imperdiet interdum in vitae diam.</p>
+
+    <dl>
+      <dt>Nulla</dt>
+      <dd>In sollicitudin ullamcorper tristique. Vivamus tempus bibendum felis, vitae eleifend nisl sollicitudin in. Maecenas arcu orci, accumsan in scelerisque eu, congue vitae felis.</dd>
+
+      <dt>Ut vitae</dt>
+      <dd>Donec purus nunc, interdum eget ultricies a, pulvinar ac tellus. Nullam placerat nunc quis nibh molestie sed euismod dolor malesuada. Praesent convallis dignissim justo at pharetra.</dd>
+
+      <dt>Sed</dt>
+      <dd>Ut vitae lacus lorem, in porta magna. Morbi justo urna, placerat in luctus quis, imperdiet at dui. Nulla dictum tristique sem ac lobortis. Nam sem metus, pellentesque eu convallis et, dignissim sit amet arcu. Fusce ut faucibus sem. Nam volutpat dolor eget metus condimentum vestibulum. Suspendisse commodo enim vitae est vestibulum aliquam ut quis arcu. Suspendisse laoreet porttitor elementum. Nam et velit velit.</dd>
+    </dl>
+
+    <p>Aenean nec orci elit. Sed a nulla erat. Aliquam commodo, odio in aliquam aliquet, erat lectus porta quam, vel volutpat eros turpis sit amet purus. Praesent eu sapien at urna imperdiet interdum in vitae diam.</p>
+
+    <h1>Lorem ipsum dolor sit amet</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus blandit, erat vitae fermentum accumsan, nibh neque dictum mi, sit amet faucibus nisi massa non nibh.</p>
+
+    <pre>char *strcpy(char *dest, const char *src)
+{
+     char *save = dest;
+     while(*dest++ = *src++);
+     return save;
+}</pre>
+
+    <p>Aenean nec orci elit. Sed a nulla erat. Aliquam commodo, odio in aliquam aliquet, erat lectus porta quam, vel volutpat eros turpis sit amet purus. Praesent eu sapien at urna imperdiet interdum in vitae diam.</p>
+
+    <h1>Lorem ipsum dolor sit amet</h1>
+
+    <p>In cursus aliquam interdum. Phasellus faucibus, erat vel dignissim ultrices, velit justo tincidunt nisl, at fringilla diam sapien elementum nunc. In sollicitudin ullamcorper tristique. Vivamus tempus bibendum felis, vitae eleifend nisl sollicitudin in. <q cite="#">Maecenas arcu orci, accumsan in scelerisque eu</q>, congue vitae felis. Donec vel mauris in nibh bibendum varius. Vivamus venenatis diam sit amet metus posuere in pulvinar augue scelerisque. Ut gravida arcu a lorem imperdiet blandit. Praesent congue elit eu libero tempus vulputate.</p>
+
+    <blockquote>Pellentesque at diam dui, varius euismod tellus. Suspendisse vel tortor mauris, in dictum enim. Donec purus nunc, interdum eget ultricies a, pulvinar ac tellus.</blockquote>
+
+    <p>Nullam placerat nunc quis nibh molestie sed euismod dolor malesuada. Praesent convallis dignissim justo at pharetra. </p>
+
+      <p>Ut vitae lacus <abbr title="HyperText Transfer Protocol">HTTP</abbr> lorem, in porta magna. Morbi justo urna, placerat in luctus quis, imperdiet at dui. Nulla dictum tristique sem ac lobortis. Nam sem metus, pellentesque eu convallis et, dignissim sit amet arcu. Fusce ut faucibus sem. Nam <del>sem ac lobortis</del> <ins>volutpat</ins> dolor eget metus condimentum vestibulum. Suspendisse <s>commodo</s> enim <strike>vitae est</strike> vestibulum aliquam ut quis arcu. Suspendisse laoreet porttitor elementum. Nam et velit velit.</p>
+
+    <p>In cursus aliquam interdum. Phasellus faucibus, erat vel <dfn>dignissim</dfn> ultrices, velit <strong>justo tincidunt</strong> nisl, at fringilla diam sapien <em>elementum</em> nunc. In sollicitudin ullamcorper tristique. Vivamus tempus bibendum felis, <code>vitae eleifend nisl sollicitudin</code> in. Maecenas arcu orci, <var>accumsan</var> in scelerisque eu, congue vitae felis. <cite>Donec vel mauris in nibh bibendum varius.</cite> Vivamus venenatis diam sit amet <kbd>metus posuere in pulvinar augue</kbd> scelerisque. <samp>Ut gravida arcu a lorem imperdiet blandit.</samp> Praesent congue elit eu libero tempus vulputate.</p>
+
+    <p>Nulla facilisi. Sed<sub>ligula</sub> et mi non nisl tincidunt porta. Integer id<sup>lorem</sup> ante ac odio cursus luctus. Praesent luctus, orci vitae mollis dignissim, quam lorem mollis mauris, sed fermentum risus nulla ac ligula. Curabitur volutpat interdum dignissim. Etiam magna mauris<sup>1</sup>, aliquet ut dapibus<sup>2</sup> sit amet, auctor<sup>3</sup> sed lacus. Nullam<sub>dy</sub> molestie pretium eros, sed tempus elit lacinia quis.</p>
+<!--#include virtual="SSIFRAG/footer.shtml" -->

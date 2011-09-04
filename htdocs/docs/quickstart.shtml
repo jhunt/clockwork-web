@@ -1,0 +1,103 @@
+<!--#set var="title" value="Quickstart" -->
+<!--#set var="under_construction" value="yes" -->
+<!--#include virtual="..//ssi/header.shtml" -->
+
+    <div class="article">
+    <h1>Quickstart Guide</h1>
+    <p>This document walks through the installation and setup of a Clockwork
+    Configuration Management Environment <em>quickly.</em>  It is not intended to
+    provide a comprehensive overview of how Clockwork functions, nor is it a
+    guide to best practices.</p>
+
+    <h1>Installation</h1>
+    <p>Before you can start using Clockwork, you need to install it on
+    at least one machine.  This can be done through packages (although packaged
+    versions of Clockwork are currently somewhat rare), or through a source
+    installation.</p>
+
+    <h2>System Requirements</h2>
+    <p>Clockwork requires the following:</p>
+
+    <dl>
+      <dt>OpenSSL</dt>
+      <dd>
+        The <a href="http://www.openssl.org/">OpenSSL Toolkit</a> provides channel security via
+        <abbr title="Transport Layer Security">TLS</abbr> and client / server identity verification
+        via X.509 certificates and <abbr title="Rivest, Shamir, & Adleman">RSA</abbr> private keys.
+        You will need a fairly recent version of OpenSSL (i.e. 0.9.8 or later).
+      </dd>
+
+      <dt>Augeas</dt>
+      <dd>
+        This excellent configuration file editing library underpins several of Clockwork&apos;s
+        core resource types.  Most Linux distributions provide a pre-compiled Augeas packages; you
+        can also <a href="http://augeas.net/download.html">download Augeas</a> and build it yourself.
+      </dd>
+
+      <dt>SQLite3</dt>
+      <dd>Clockwork uses file-backed <a href="http://sqlite.org">SQLite3 databases</a> for storing
+      information on host compliance, job runs, and other metadata.  Versions of SQLite prior to
+      the 3.x series are unsupported (and discouraged by the maintainers).</dd>
+
+      <dt>pthreads</dt>
+      <dd>The Policy Master, <code>policyd(3)</code>, relies on the threading model
+      specified in <cite>POSIX1.c, Threads Extensions (IEEE Std 1003.1c-1995).</cite>  On Linux,
+      this model is implemented through the <code>libpthreads</code> library.</dd>
+    </dl>
+
+    <p><strong>Note:</strong> If you&apos;re installing Clockwork through your distribution&apos;s
+    package manager (like <code>yum</code> or <code>apt-get</code>), you probably don&apos;t need
+    to worry about dependencies; the package should know what it needs.</p>
+
+    <h2>Building from Source</h2>
+    <p>To build from source, <a href="/downloads#source">download Clockwork.</a>  Source
+    code for Clockwork is made available as a compressed (either <code>gzip</code> or <code>bzip2</code>)
+    <abbr title="Tape ARchive">tar</abbr> file, which you will have to uncompress and extract:</p>
+
+    <p>For the <code>gzip</code> variety:</p>
+    <pre>$ tar -xzvf clockwork-x.y.z.tar.gz</pre>
+
+    <p>Or, if you prefer <code>bzip2</code>:</p>
+    <pre>$ tar -xjvf clockwork-x.y.z.tar.bz2</pre>
+
+    <p>The tarball will be uncompressed and extracted into a directory called <code>clockwork-x.y.z</code>
+    (where x.y.z is the version of Clockwork you downloaded).  To start the build, <code>cd</code> into this
+    directory.</p>
+
+    <pre>$ cd clockwork-x.y.z</pre>
+
+    <p>The <code>./configure</code> script will set up your build environment.  From there, run
+    <code>make</code> to build the components of Clockwork, and <code>make install</code> to install
+    the documentation, binaries and default configuration files in <code>/usr/local</code>:
+
+    <pre>$ ./configure
+  ... output clipped for brevity ...
+$ make
+  ... output clipped for brevity ...
+$ make install
+  ... output clipped for brevity ...</pre>
+
+    <p>(The configuration script can be used to limit what parts of Clockwork get built, for
+    client-only or master-only implementations.  If you want to play around with your options,
+    try <code>./configure --help</code>)</p>
+
+    <h2>Using Packages</h2>
+    <p>Unfortunately, Clockwork is still a pretty new project, and we haven&apos;t made it into
+    the main package repositories for the heavy-hitters like Debian, Ubuntu or CentOS.</p>
+
+    <h1>Designing Your Environment</h1>
+    <h2>Picking a Policy Master</h2>
+    <h3>Role of the Policy Master</h3>
+    <h3>Sizing Considerations</h3>
+
+    <h2>Your First Policy</h2>
+    <h2>The First Client Box</h2>
+    <h3>The Dry&ndash;Run Test</h3>
+    <h3>Running For Real</h3>
+
+    <h1>Reporting</h1>
+    <h2>Seeing What&apos;s Been Done</h2>
+    <h2>Compliance Reporting</h2>
+
+    </div>
+<!--#include virtual="..//ssi/footer.shtml" -->

@@ -1,0 +1,40 @@
+<!--#set var="title" value="Philosophy" -->
+<!--#include virtual="/ssi/header.shtml" -->
+    <h1>Why Clockwork is Free</h1>
+
+    <p>Clockwork is <strong>Free Software</strong>, with a capital <strong>F.</strong></p>
+
+    <p>Why?</p>
+
+    <p>Because it&apos;s the right thing to do, both for IT and the
+    software itself.</p>
+
+    <h2>To Make IT Better</h2>
+    <p>Configuration Management is not new; people have been writing ad-hoc scripts in
+    Perl and shell for as long as their has been more than one platform in the data center.
+    Formal tools like Clockwork aren&apos;t even groundbreaking anymore;
+    <a href="http://cfengine.org">CFEngine</a> and <a href="http://puppetlabs.com">Puppet</a>
+    have been around for years.</p>
+
+    <p>Tools like Clockwork need to be put in the hands of as many <em>System
+    Administrators</em> and <em>Engineers</em> as possible.  It is one of the only ways we will be able to
+    advance the <strong>state of the art</strong> in systems management and stop trying to solve the same
+    problems over and over again.</p>
+
+    <h2>To Make Clockwork Better</h2>
+    <p>From a purely selfish standpoint, <strong>I want Clockwork to succeed.</strong>  I think the software
+    has great potential, but to take it to the next level, Clockwork needs a community.</p>
+
+    <p>Clockwork needs system administrators to <strong>use</strong> it.</p>
+    <p>Clockwork needs people to <strong>advocate</strong> its use.</p>
+    <p>Clockwork needs large implementations to <strong>prove</strong> itself.</p>
+
+    <p>By making it freely available&mdash;in a very real sense&mdash;the barriers to implementation are
+    lowered.  Hobbyists and professionals alike can install it on their home networks (you all have
+    <em>home networks,</em> right?) and take it for a spin.  Corporate IT departments can implement without
+    having to worry about the bean-counters.</p>
+
+    <p>The bottom line is simple:</p>
+    <p style="text-align: center;"><strong>more users</strong> = <em>better software</em> = <strong>more users</strong> = <em>better software</em> &hellip;</p>
+
+<!--#include virtual="/ssi/footer.shtml" -->

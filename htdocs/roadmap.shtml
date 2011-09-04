@@ -1,0 +1,118 @@
+<!--#set var="title" value="Roadmap" -->
+<!--#include virtual="/ssi/header.shtml" -->
+    <h1>Roadmap</h1>
+    <p>Clockwork is still very much a nascent bit of software.  Consequently, its roadmap
+    is focused on finishing out the core feature set and getting to a well-documented and
+    stable first release.</p>
+
+    <p>Here&apos;s to <strong>1.0.0!</strong></p>
+
+    <h2 id="dev">Development Work Outstanding</h2>
+
+    <p class="note"><strong>Note:</strong> this section is a webified version of the <code>TODO</code>
+    file found in the root of the Clockwork codebase; when in doubt (and if you&apos;re
+    looking to jump in and start hacking) check there for the most up-to-date information.</p>
+
+    <p>The following features need to be implemented before Clockwork can be considered
+    fully-functional:</p>
+
+    <ol>
+      <li>More Intrusive <strong>Certificate Verification</strong></li>
+      <li>Support <strong>Certificate Revocation</strong> through <code>cwca</code></li>
+      <li><strong>Automatic Enrolment</strong> (keys + certificates) in <code>cwa</code> and <code>policyd</code></li>
+      <li>Auxiliary <strong>Memory Tests</strong> &mdash; test for leaks, malloc failures, etc.</li>
+    </ol>
+
+    <h2 id="infrastructure">Infrastructure and Hosting</h2>
+
+    <p>If anyone has any suggestions for these, wants to write them, or has server space
+    to donate, please <a href="/contact">contact us</a>.</p>
+
+    <ol>
+      <li>Identify and Implement a <strong>Bug Tracker</strong> solution.</li>
+      <li>Build <strong>Community Support</strong> tools:
+        <ol>
+          <li>Mailing List(s)</li>
+          <li>Forums</li>
+          <li>???</li>
+        </ol></li>
+      <li><s>Project Website</s> (you&apos;re reading it now&hellip;)</li>
+    </ol>
+
+    <h2 id="docs">Documentation Efforts</h2>
+
+    <p>There are two forms of documentation that need to be fleshed out: <code>man</code> pages
+    and the web-based stuff.  Some of it does cross over &mdash; the <code>man</code> pages are
+    also included on the website.</p>
+
+    <h3><code>man</code> Pages</h3>
+    <p>Perhaps the most important set of documents, the <code>man</code> pages provide on-site
+    guidance to system engineers and administrators in a format that is both familiar and useful.
+    The <code>man</code> page source files are found in the Clockwork codebase under the
+    <code>man/</code> directory.</p>
+
+    <ol>
+      <li><code>clockwork.7</code> &ndash; Introduction to Clockwork &ndash; needs <strong>finished.</strong></li>
+      <li><code>policyd.1</code> &ndash; Policy Master command reference &ndash; needs <em>reviewed.</em></li>
+      <li><code>cwa.1</code> &ndash; Clockwork Agent command reference &ndash; needs <em>reviewed.</em></li>
+      <li><code>cwpol.1</code> &ndash; Policy Explorer command reference &ndash; needs <strong>finished.</strong></li>
+      <li><code>cwdb.1</code> &ndash; Reporting reference &ndash; needs <strong>written.</strong></li>
+      <li><code>policyd.conf.5</code> &ndash; Policy Master config file format &ndash; needs <em>reviewed.</em></li>
+      <li><code>cwa.conf.5</code> &ndash; Clockwork Agent config file format &ndash; needs <em>reviewed.</em></li>
+    </ol>
+
+    <p>Each resource type also has its own <code>man</code> page:</p>
+
+    <ol>
+      <li><code>res_dir.5</code> &ndash; Directory Resource &ndash; needs <em>reviewed.</em></li>
+      <li><code>res_file.5</code> &ndash; File Resource &ndash; needs <em>reviewed.</em></li>
+      <li><code>res_group.5</code> &ndash; Group Resource &ndash; needs <em>reviewed.</em></li>
+      <li><code>res_host.5</code> &ndash; Hosts File Resource &ndash; needs <em>reviewed.</em></li>
+      <li><code>res_package.5</code> &ndash; Software Package Resource &ndash; needs <em>reviewed.</em></li>
+      <li><code>res_service.5</code> &ndash; Boot Service Resource &ndash; needs <em>reviewed.</em></li>
+      <li><code>res_sysctl.5</code> &ndash; Kernel Parameter Resource &ndash; needs <em>reviewed.</em></li>
+      <li><code>res_user.5</code> &ndash; User Resource &ndash; needs <em>reviewed.</em></li>
+    </ol>
+
+    <h3>Web Documentation</h3>
+    <p>The web documentation is maintained as a set of static <abbr title="HyperText Markup Language">HTML</abbr>
+    files with some <abbr title="Server-Side Includes">SSI</abbr> for consistency and a bit of Perl where it makes
+    sense.  These puppies are hand-hacked; it&apos;s soooo 1990-something, but it gets the job done.</p>
+
+    <p>Anyone wishing to contribute should fork the website project on GitHub:
+    <a href="https://github.com/filefrog/clockwork-web">https://github.com/filefrog/clockwork-web</a> and
+    send James Hunt (filefrog) a pull request.  (The project root contains a suitable Apache configuration
+    file for replicating the Clockwork website).</p>
+
+    <p>The following web-based documentation is still outstanding:</p>
+    <ol>
+      <li><cite>Quickstart Guide</cite> - needs <strong>written</strong>/<strong>reviewed</strong></li>
+      <li><cite>All Things Clockwork &ndash; A Sysad&apos;s Guide</cite> - needs <strong>written</strong>/<strong>reviewed</strong></li>
+      <li><cite>Developer&apos;s Handbook</cite> - needs <strong>written</strong>/<strong>reviewed</strong></li>
+    </ol>
+
+    <h1>Release Plan</h1>
+    <p>Clockwork is <em>system</em> software, and for shops that have implemented
+    it for their configuration management needs, updating can be painful
+    and scary.</p>
+
+    <p>For that reason alone, the Clockwork development team adheres to the
+    <em>when it&apos;s ready</em> release methodology - a new stable release
+    (version <em>X.Y</em>) is made when the features are mature, the regression
+    tests pass 100%, and test code coverage is acceptable.</p>
+
+    <h2>Version Numbering</h2>
+    <p>Clockwork version numbers consist of three dot-separated decimal
+    components, <em>X.Y.Z</em>.</p>
+
+    <p>The first number &mdash; <em>X</em> &mdash; is the <em>major</em> version number.
+    It gets incremented when the architecture of Clockwork changes dramatically.
+    All Clockwork builds with the same major version number interoperate (bugs notwithstanding).</p>
+
+    <p>The second &mdash; <em>Y</em> &mdash; is the <em>minor</em> version number.  Minor
+    releases are made to introduce new features into Clockwork without changing its architecture.
+    Builds with the same major and minor version numbers are equivalent in terms of functionality.</p>
+
+    <p>The third number &mdash; <em>Z</em> &mdash; is the <em>revision</em> number.  Revision
+    releases address security issues and bugs.  They do not introduce new features.</p>
+<!--#include virtual="/ssi/footer.shtml" -->

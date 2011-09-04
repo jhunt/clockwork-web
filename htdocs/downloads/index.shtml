@@ -1,0 +1,43 @@
+<!--#set var="title" value="Downloads" -->
+<!--#include virtual="..//ssi/header.shtml" -->
+    <h1 id="stable">Stable Releases</h1>
+    <p>As Clockwork is still pretty young (see the <a href="/roadmap">Roadmap</a>), we
+    haven&apos;t made any stable releases yet. =(</p>
+
+    <!--
+    <p>The <strong>latest stable</strong> version is <strong>1.4.5</strong></p>
+
+    <dl>
+      <dt>RPM</dt>
+      <dd>Nam condimentum tincidunt erat lobortis pulvinar.</dd>
+
+      <dt>YUM</dt>
+      <dd>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</dd>
+
+      <dt>dpkg</dt>
+      <dd>Nam condimentum tincidunt erat lobortis pulvinar.</dd>
+
+      <dt>APT</dt>
+      <dd>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</dd>
+    </dl>
+    -->
+
+    <!--
+    <h1 id="beta">Not-So-Stable Releases</h1>
+    <p>Nam condimentum tincidunt erat lobortis pulvinar. Vivamus quis tortor dui, ut porttitor tellus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque in urna eu mi fringilla scelerisque eu vitae dolor. Aenean tempor orci in sapien lacinia ac.</p>
+
+    <p>The latest beta release versions are:</p>
+
+    <h2>1.5.6-beta1 - Aug 15 2011</h2>
+    <p>Vivamus quis tortor dui, ut porttitor tellus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque in urna eu mi fringilla scelerisque eu vitae dolor. Aenean tempor orci in sapien lacinia ac.</p>
+    <p>Nam <a href="#">condimentum tincidunt erat lobortis</a> pulvinar.</p>
+
+    <h2>1.4.6-beta3</h2>
+    <p>Vivamus quis tortor dui, ut porttitor tellus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque in urna eu mi fringilla scelerisque eu vitae dolor. Aenean tempor orci in sapien lacinia ac.</p>
+    <p>Nam <a href="#">condimentum tincidunt erat lobortis</a> pulvinar.</p>
+    -->
+
+    <h1>Hacking Clockwork</h1>
+    <p>If you want to get involved in the development, clone the <code>git</code> repository from GitHub:
+    <a href="https://github.com/filefrog/clockwork">https://github.com/filefrog/clockwork</a>.
+<!--#include virtual="..//ssi/footer.shtml" -->

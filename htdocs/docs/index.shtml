@@ -1,0 +1,45 @@
+<!--#set var="title" value="Documentation (Yay!)" -->
+<!--#set var="under_construction" value="yes" -->
+<!--#include virtual="//ssi/header.shtml" -->
+    <h1>Documentation</h1>
+
+    <p>Here's the <strong>essential reading list</strong> for Clockwork, to get you
+    started.</p>
+
+    <p><a href="/docs/quickstart">Quickstart Guide</a><br />
+    This guide walks you through Clockwork in 15 minutes or less!</p>
+
+    <h2 id="man-pages"><code>man</code> Pages</h2>
+    <p>Every systems guy (or girl) worth their salt reads man pages, so we don&apos;t
+    dare disappoint.  While these are in the actual Clockwork distribution, we thought
+    we&apos;d post them here for convenience.</p>
+
+    <ul>
+      <li><a href="#">clockwork(7)</a></li>
+      <li><a href="#">cwa(1)</a></li>
+      <li><a href="#">cwa.conf(5)</a></li>
+      <li><a href="#">cwpol(1)</a></li>
+      <li><a href="#">policyd(1)</a></li>
+      <li><a href="#">policyd.conf(5)</a></li>
+      <li><a href="#">res_dir(5)</a></li>
+      <li><a href="#">res_file(5)</a></li>
+      <li><a href="#">res_group(5)</a></li>
+      <li><a href="#">res_host(5)</a></li>
+      <li><a href="#">res_package(5)</a></li>
+      <li><a href="#">res_service(5)</a></li>
+      <li><a href="#">res_sysctl(5)</a></li>
+      <li><a href="#">res_user(5)</a></li>
+    </ul>
+
+    <h2 id="guides">Guides</h2>
+
+    <p><a href="/docs/quickstart">Quickstart Guide</a><br />
+    This guide walks you through Clockwork in 15 minutes or less!</p>
+
+    <h2 id="recipes">Recipes</h2>
+    <p>Yeah&hellip; still kind of working on these.  If you want to help, see the <a href="/roadmap#docs">Roadmap.</a></p>
+
+    <h2 id="howtos">Howtos</h2>
+    <p>Same with these; still in progress.  <a href="/roadmap#docs">Contributions</a> are welcome!</p>
+
+<!--#include virtual="//ssi/footer.shtml" -->
