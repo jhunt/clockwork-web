@@ -1,5 +1,5 @@
 <!--#set var="title" value="Mockup" -->
-<!--#include virtual="SSIFRAG/header.shtml" -->
+<!--#include virtual="ssi/header.shtml" -->
 
     <div class="announcement">
       <h1>Lorem Ipsum Dolor Sit Amet</h1>
@@ -158,4 +158,4 @@
     <p>In cursus aliquam interdum. Phasellus faucibus, erat vel <dfn>dignissim</dfn> ultrices, velit <strong>justo tincidunt</strong> nisl, at fringilla diam sapien <em>elementum</em> nunc. In sollicitudin ullamcorper tristique. Vivamus tempus bibendum felis, <code>vitae eleifend nisl sollicitudin</code> in. Maecenas arcu orci, <var>accumsan</var> in scelerisque eu, congue vitae felis. <cite>Donec vel mauris in nibh bibendum varius.</cite> Vivamus venenatis diam sit amet <kbd>metus posuere in pulvinar augue</kbd> scelerisque. <samp>Ut gravida arcu a lorem imperdiet blandit.</samp> Praesent congue elit eu libero tempus vulputate.</p>
 
     <p>Nulla facilisi. Sed<sub>ligula</sub> et mi non nisl tincidunt porta. Integer id<sup>lorem</sup> ante ac odio cursus luctus. Praesent luctus, orci vitae mollis dignissim, quam lorem mollis mauris, sed fermentum risus nulla ac ligula. Curabitur volutpat interdum dignissim. Etiam magna mauris<sup>1</sup>, aliquet ut dapibus<sup>2</sup> sit amet, auctor<sup>3</sup> sed lacus. Nullam<sub>dy</sub> molestie pretium eros, sed tempus elit lacinia quis.</p>
-<!--#include virtual="SSIFRAG/footer.shtml" -->
+<!--#include virtual="ssi/footer.shtml" -->
